@@ -5,5 +5,6 @@
         If RadioButton2.Checked = True Then Form3.Show()
     End Sub
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+                'And this is the end of the code'
     End Sub
 End Class
